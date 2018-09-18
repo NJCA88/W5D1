@@ -1,0 +1,23 @@
+// Use the gear_dropdown.png screenshot as a style guide
+#gear-dropdown {
+  flex-direction: column;
+}
+
+.editions li {
+  padding: 0;
+}
+
+.help li {
+  padding: 0;
+}
+
+.editions {
+  display: flex;
+  flex-direction: column;
+  border-bottom: lightgrey solid 1px;
+}
+
+.help {
+  display: flex;
+  flex-direction: column;
+}
